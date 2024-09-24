@@ -10,15 +10,17 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Välkommen!");
-        Order order = new Order(0); // Skapar ett objekt från klassen Order med variabeln order.
+        Order order = new Order(10); // Skapar ett objekt från klassen Order med variabeln order.
 
         order.AddItem("Pizza", 125, 0);
-        order.AddItem("Dryck", 19.99, 0);
+        order.AddItem("Dryck", 19.99, 3);
         order.AddItem("Pommes", 30, 0);
+
 
         while (true)
         {
             order.StartMenu();
+            
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -33,6 +35,7 @@ class Program
 
                 case 3: // se alla beställningar
                     order.PrintOrder(); // skriver ut hela listan list.
+                    System.Console.WriteLine("Totalpris: " + order.CountTotal());
                     break;
 
                 case 4:// ta bort
@@ -97,7 +100,7 @@ class Program
              
             // annars, lägg till i listan
             list.Add(new OrderItem(name, price, quantity)); // Skapar ett nytt orderItem objekt och lägger till det i listan!!!!!
-                
+          
            
         }
 
