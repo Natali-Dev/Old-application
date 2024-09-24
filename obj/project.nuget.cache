@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mgC9qkQoRgG7ZauYCDbh6kOBKFXaa7o3sD2CIlvTPcyAEhuqEhgHGpdFB2G8kwjs3VjWtK2G98mlOH+jg8f9KQ==",
+  "dgSpecHash": "acLmfF+Vsq5u2aAPzaq10KsvZfen1Mxpt2K9qgvyE9qgo1poKU3a1xM9eXUllR7JRd6zKbJr9nyAAbWut4P+cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\restaurant.csproj",
+  "projectFilePath": "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\restaurant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\restaurant.csproj": {}
+    "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\restaurant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\restaurant.csproj": {
+    "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\restaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\restaurant.csproj",
+        "projectUniqueName": "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\restaurant.csproj",
         "projectName": "restaurant",
-        "projectPath": "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\restaurant.csproj",
+        "projectPath": "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\restaurant.csproj",
         "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukas\\Kod\\VSCode\\restaurant\\obj\\",
+        "outputPath": "C:\\Users\\Lukas\\kod\\vscode\\restaurant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
